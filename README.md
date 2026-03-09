@@ -4,6 +4,7 @@
 
 ### v0.1.0
 - [ ] Create Next.js app
+- [ ] Create a FastAPI app
 - [ ] Integrate Prisma + PostgreSQL
 - [ ] User can add daily expenses
 - [ ] Setup authentication - Betterauth
