@@ -10,6 +10,10 @@
 - [ ] Sign up / Sign in / Sign out
 - [ ] Integrate Google auth, Github auth
 - [ ] Deploy to Vercel
+- [ ] Setup rate limiting
+- [ ] Setup performance testing with k6 or Artillery
+- [ ] Test rate limiting
+- [ ] Setup security testing with OWASP ZAP or Snyk
 - [ ] Setup DEV -> TEST -> PROD environments and pipelines
 - [ ] User can view expenses in a list
 - [ ] User can view expenses by month, by category
