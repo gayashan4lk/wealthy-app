@@ -16,6 +16,8 @@
 - [ ] Setup Playwright e2e testing
 
 ### v0.2.0
+- [ ] Dark mode / Light mode switch
+- [ ] User can add income
 - [ ] User can set financial goals and track progress
 - [ ] User can set monthly budget and track progress
 - [ ] User can view analytics dashboard with charts and graphs
