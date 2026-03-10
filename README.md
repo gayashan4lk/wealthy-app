@@ -3,9 +3,10 @@
 ## Backlog
 
 ### v0.1.0
+
 - [x] Create Next.js app
 - [x] Create a FastAPI app
-- [ ] Integrate Prisma + PostgreSQL
+- [x] Integrate Prisma + PostgreSQL
 - [ ] User can add daily expenses
 - [ ] Setup authentication - Betterauth
 - [ ] Sign up / Sign in / Sign out
@@ -21,6 +22,7 @@
 - [ ] Setup Playwright e2e testing
 
 ### v0.2.0
+
 - [ ] Dark mode / Light mode switch
 - [ ] User can add income
 - [ ] User can set financial goals and track progress
@@ -34,6 +36,7 @@
 - [ ] User can view shared expenses with family members
 
 ### v0.3.0
+
 - [ ] Integrate nightly builds and tests
 - [ ] Setup error monitoring - Sentry
 - [ ] Setup performance monitoring - Sentry
