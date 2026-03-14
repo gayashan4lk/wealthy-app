@@ -5,7 +5,9 @@ export default function Home() {
 		<div>
 			<main>
 				<h1 className="text-5xl font-black">Welcome</h1>
-				<div>Create Daily Expenses Form</div>
+				<div className="@container">
+					<div className="mx-auto @sm:w-sm">Create Daily Expenses Form</div>
+				</div>
 			</main>
 		</div>
 	)
