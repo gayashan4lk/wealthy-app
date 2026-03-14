@@ -1,6 +1,5 @@
 import {
 	Field,
-	FieldContent,
 	FieldDescription,
 	FieldGroup,
 	FieldLabel,
